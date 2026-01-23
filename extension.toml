@@ -3,9 +3,9 @@ name = "diff"
 description = "Diff syntax highlighting with proper @diff.plus/@diff.minus support"
 version = "0.0.1"
 schema_version = 1
-authors = ["Sarah Hawkless <abc@xyz.com>"]
+authors = ["orlaya <abc@xyz.com>"]
 repository = "https://github.com/orlaya/diff_zed"
 
 [grammars.diff]
 repository = "https://github.com/orlaya/diff_tree"
-commit = "f510db81ba9adc01ffb2a462699be7073aea95c6"
+commit = "8cb33f9080d6bd94a72ad3d1d3bf045d6ed892d4"
