@@ -1,9 +1,10 @@
 (comment) @comment @spell
 
-; Frontmatter delimiters (em dashes)
+; ———
+; source: value
+; expression: value
+; ———
 (frontmatter_delimiter) @punctuation.delimiter
-
-; Header fields (source:, expression:)
 (header_field
   (header_name) @title
   (header_colon) @punctuation.delimiter
