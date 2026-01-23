@@ -42,7 +42,7 @@
   "--"
   "---"
   "----"
-] @punctuation.special
+] @diff.delta
   (#set! priority 95))
 
 [
