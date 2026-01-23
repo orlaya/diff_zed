@@ -5,7 +5,7 @@
 
 ; Header fields (source:, expression:)
 (header_field
-  (header_name) @markup.heading
+  (header_name) @title
   (header_colon) @punctuation.delimiter
   (header_value) @diff.delta)
 
