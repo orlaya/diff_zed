@@ -1,5 +1,14 @@
 (comment) @comment @spell
 
+; Frontmatter delimiters (em dashes)
+(frontmatter_delimiter) @punctuation.delimiter
+
+; Header fields (source:, expression:)
+(header_field
+  (header_name) @markup.heading
+  (header_colon) @punctuation.delimiter
+  (header_value) @diff.delta)
+
 [
   (addition)
   (new_file)
