@@ -8,4 +8,4 @@ repository = "https://github.com/orlaya/diff_zed"
 
 [grammars.diff]
 repository = "https://github.com/orlaya/diff_tree"
-commit = "cacd891bbe0230a90b71790c1a8f480e237e43ae"
+commit = "87a2239ce8ffe195e289008cd45e0c8672529d76"
